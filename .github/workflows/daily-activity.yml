@@ -1,0 +1,25 @@
+name: Daily Contribution Activity
+
+on:
+  schedule:
+    # Runs automatically every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update Activity Log
+        run: |
+          echo "Last Active: $(date -u)" > ACTIVITY.log
+          git config --local user.email "hanishvavilapalli7@gmail.com"
+          git config --local user.name "Hanish-vavilapalli"
+          git add ACTIVITY.log
+          git commit -m "chore(activity): update daily contribution activity" || exit 0
+          git push
