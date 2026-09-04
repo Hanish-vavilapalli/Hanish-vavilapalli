@@ -23,42 +23,42 @@ I build **full-stack applications, AI-integrated systems, and workflow automatio
 
 ### 🚀 Featured Projects
 
-#### 🛡️ Campus Guard Pro
-> Enterprise-grade campus security, pass governance, and access control platform
-
-[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Hanish-vavilapalli)
-
-**Tech:** React · TypeScript · Vite · Tailwind CSS · TanStack Router · PostgreSQL · Supabase
-
-- **Multi-Role Governance:** Granular RBAC supporting Students, Faculty, HODs, Deans, and Super Admins.
-- **Pass Verification Engine:** Real-time pass lifecycle tracking, verification routing, and security guard scan logging.
-- **Responsive Architecture:** Three-tier responsive UI layout tailored for high-density administrative dashboards and mobile devices.
-
----
-
 #### 🎓 EduSuite Pro
-> Modular institutional management and faculty extra-work ledger platform
+> Modular institutional management & faculty extra-work ledger platform
 
-[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Hanish-vavilapalli)
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Hanish-vavilapalli/edusuite-pro)
 
 **Tech:** React · TypeScript · Node.js · Tailwind CSS · PostgreSQL · Supabase
 
-- **Institutional Ledger:** Automated claim verification engine with dynamic point routing across administrative tiers.
-- **Audit & Governance:** Centralized audit logs, role-based approval flows, and institutional duty dispatching.
-- **Evidence Management:** Integrated multi-media evidence tracking and verification console for administrative review.
+- **Institutional Governance Ledger:** Multi-tiered verification matrix for faculty extra-work claims and administrative duty tracking.
+- **Role-Based Access Control:** Granular RBAC supporting HODs, Deans, IQAC Coordinators, and Principal consoles.
+- **Auditability & Evidence Management:** Multi-media evidence verification, persistent audit logs, and institutional duty dispatching.
 
 ---
 
-#### 🤖 AI & Automation Engines
-> Multi-model AI agent routing, RAG integration, and automated workflow pipelines
+#### 🩸 LifeLink
+> Real-time emergency donor matching & healthcare platform
 
-[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Hanish-vavilapalli)
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Hanish-vavilapalli/lifelink)
 
-**Tech:** Python · LLMs · RAG · n8n · FastAPI · PostgreSQL · Docker
+**Tech:** React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
 
-- **Autonomous Workflows:** Custom n8n workflow nodes for event-driven system triggers and third-party API orchestration.
-- **AI Agent Integration:** Multi-provider LLM routing with fallback management and structured schema validation.
-- **Data Pipelines:** Vector indexing and retrieval-augmented generation (RAG) for knowledge base retrieval.
+- **Emergency Donor Matching:** Automated request dispatching and real-time location-based blood donor availability matching.
+- **Real-Time Notification Engine:** Urgent request alerts and status tracking for medical emergency responses.
+- **Secure Access Control:** Authenticated user registration, donor verification, and privacy-focused contact dispatching.
+
+---
+
+#### 💎 E-Commerce Platform & AI Chatbot
+> Interactive retail application with integrated conversational AI assistant
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Hanish-vavilapalli/jewellery-website-and-chatbot)
+
+**Tech:** Python · JavaScript · Flask · HTML5 · CSS3 · AI / NLP Integration
+
+- **AI Conversational Assistant:** Customer inquiry automation, product recommendation engine, and interactive query handling.
+- **Catalog Management:** Dynamic product showcase with filtering, responsive layout, and shopping cart workflows.
+- **API Orchestration:** Seamless integration between frontend UI and AI backend service endpoints.
 
 ---
 
