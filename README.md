@@ -11,57 +11,6 @@
 
 ---
 
-### 👨‍💻 Software Engineering Profile
-
-I build **full-stack applications, AI-integrated systems, and workflow automation** with a focus on clean architecture, reliable APIs, data-driven applications, and maintainable code.
-
-- 🔭 **Current Focus:** Full-stack development, AI/LLM integration, and workflow automation
-- 🧠 **Engineering Interests:** System design, API architecture, databases, cloud, and developer tooling
-- ⚡ **Building With:** TypeScript, React, Python, PostgreSQL, Supabase, Docker, and n8n
-
----
-
-### 🚀 Featured Projects
-
-#### 🎓 EduSuite Pro
-> Modular institutional management & faculty extra-work ledger platform
-
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Hanish-vavilapalli/edusuite-pro)
-
-**Tech:** React · TypeScript · Node.js · Tailwind CSS · PostgreSQL · Supabase
-
-- **Institutional Governance Ledger:** Multi-tiered verification matrix for faculty extra-work claims and administrative duty tracking.
-- **Role-Based Access Control:** Granular RBAC supporting HODs, Deans, IQAC Coordinators, and Principal consoles.
-- **Auditability & Evidence Management:** Multi-media evidence verification, persistent audit logs, and institutional duty dispatching.
-
----
-
-#### 🩸 LifeLink
-> Real-time emergency donor matching & healthcare platform
-
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Hanish-vavilapalli/lifelink)
-
-**Tech:** React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
-
-- **Emergency Donor Matching:** Automated request dispatching and real-time location-based blood donor availability matching.
-- **Real-Time Notification Engine:** Urgent request alerts and status tracking for medical emergency responses.
-- **Secure Access Control:** Authenticated user registration, donor verification, and privacy-focused contact dispatching.
-
----
-
-#### 💎 E-Commerce Platform & AI Chatbot
-> Interactive retail application with integrated conversational AI assistant
-
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Hanish-vavilapalli/jewellery-website-and-chatbot)
-
-**Tech:** Python · JavaScript · Flask · HTML5 · CSS3 · AI / NLP Integration
-
-- **AI Conversational Assistant:** Customer inquiry automation, product recommendation engine, and interactive query handling.
-- **Catalog Management:** Dynamic product showcase with filtering, responsive layout, and shopping cart workflows.
-- **API Orchestration:** Seamless integration between frontend UI and AI backend service endpoints.
-
----
-
 ### 🛠️ Tech Arsenal
 
 #### 💻 Languages
